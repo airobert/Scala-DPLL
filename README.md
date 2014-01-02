@@ -2,4 +2,5 @@ Scala-DPLL
 ==========
 
 Scala DPLL SAT Solver
-Robert White Manchester University
+
+by Robert White Manchester University
